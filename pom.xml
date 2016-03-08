@@ -3,7 +3,8 @@
 
 	<groupId>core</groupId>
 	<artifactId>HW_31_Single_Title_Validation</artifactId>
-	<version>1.1</version>
+	<!-- <version>1.1</version> -->
+	<version>${b.version}</version>
 	<packaging>jar</packaging>
 
 	<name>HW_31_Single_Title_Validation</name>
